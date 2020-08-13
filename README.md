@@ -5,3 +5,4 @@
 
 # Grades
 [My Grade](Machine_Learning_Assignments_Coursera.html)
+![My Grade](Screenshot from 2020-08-13 21-57-26.png)
